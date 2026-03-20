@@ -52,3 +52,8 @@ Behavioral simulation was performed using Vivado. The waveform verifies correct 
 
 (<img width="1355" height="716" alt="simulation-ss" src="https://github.com/user-attachments/assets/2bc1c3fe-6b06-41dc-aaac-c0da9c7267c8" />
 )
+
+## 🔮 Future Improvements
+- Add pedestrian crossing signal
+- Implement sensor-based adaptive timing
+- Deploy on FPGA board
