@@ -50,4 +50,5 @@ Behavioral simulation was performed using Vivado. The waveform verifies correct 
 
 ## 📸 Output Waveform
 
-(Add your waveform screenshot here)
+(<img width="1355" height="716" alt="simulation-ss" src="https://github.com/user-attachments/assets/2bc1c3fe-6b06-41dc-aaac-c0da9c7267c8" />
+)
